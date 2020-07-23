@@ -16,6 +16,7 @@ What things you need to install the software and how to install them
 
 * **rocketseat** grande parte do conteudo [contributors](https://app.rocketseat.com.br/dashboard)
 
+## Licença
 O projeto esta sobre a licença do MIT veja mais sobre ela - [LICENSE.md](https://raw.githubusercontent.com/miguelsrrobo/JS_Public-/master/LICENSE) 
 
 ## Acknowledgments
