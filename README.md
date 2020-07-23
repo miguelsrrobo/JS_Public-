@@ -2,7 +2,7 @@
 # JS_Public-
 Repositorio Publico para passar adiante o conhecimento, sobre Javascrip com exercicios e programas feitos durante a rocketseat.
 
-## Getting Started
+## Introdução
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
