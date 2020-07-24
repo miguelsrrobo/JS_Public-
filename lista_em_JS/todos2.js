@@ -2,15 +2,11 @@ var listElement = document.querySelector('#app ul');
 var inputElement = document.querySelector('#app input');
 var buttonElement = document.querySelector('#app button');
 
-var tudus = [
-    'Fazer café',
-	'Estudar Javascript',
-	'Acessar Comunidade da Rocketseat'				
-];
+var tudus = JSON.pase(localStorange.getItem('lis_todo'));
 
 function renderTodos(){
     listElement.innerHTML = '';
-    
+
     for(todo of todos){
         var todoElement = document.createElement('li');
         var todoText = document.createTextNode(todo);
@@ -46,9 +42,11 @@ function addTodo(){
 buttonElement.onclick = addTodo;
 
 function deleteTodo(pos){
-    var todoText = inputElement.value;
+  todo.splice(pos, 1);
+  renderTodos();
+}
 
-    todos.splice(0, 1);
-    inputElement.value = '';
-    renderTodos();
+function saveToStorange(){
+
+  localStorange.setItem('lis_todo', JSON.stringify(tod));
 }
