@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+    <title>Hello, World!</title>
+  </head>
+  <body>
+    <h1>
+        Hello, World!
+    </h1>
+    <button class="botao">teste</button>
+    <div class="box"> </div>
+    <script >
+      var btnElement = document.querySelector('button.botao');
+      var boxElement = document.querySelector('.box');
+      btnElement.onclick = function(){
+        return box();
+      }
+      function box(){
+        boxElement.style.width = 100;
+        boxElement.style.height = "100px";
+        boxElement.style.backgroundColor = '#f00';
+      }
+    </script>
+  </body>
+</html>
