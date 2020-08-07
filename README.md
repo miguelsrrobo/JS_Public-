@@ -1,4 +1,7 @@
-![JS](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F6%2F6a%2FJavaScript-logo.png&f=1&nofb=1)
+<p align = "center">
+  <img src="https://raw.githubusercontent.com/miguelsrrobo/JS_Public-/master/Captura%20de%20tela%20de%202020-08-06%2015-08-00.png" alt="python_logo_extended" width="50%" />
+</p>
+
 # JS_Public-
 Repositorio Publico para passar adiante o conhecimento, sobre Javascrip com exercicios e programas feitos durante a rocketseat.
 
