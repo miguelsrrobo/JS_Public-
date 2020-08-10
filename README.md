@@ -2,6 +2,19 @@
   <img src="https://raw.githubusercontent.com/miguelsrrobo/JS_Public-/master/Captura%20de%20tela%20de%202020-08-06%2015-08-00.png" alt="python_logo_extended" width="50%" />
 </p>
 
+<p align="center">	
+  <a>
+    <img alt="miguel garcia silvestre" src="https://img.shields.io/badge/linkedin-Miguel Garcia Silvestre-blue" />
+  </a>
+  <a>
+    <img alt="language count" src="https://img.shields.io/github/languages/count/miguelsrrobo/JS_Public-">
+  </a>
+  <img alt="Linguagen" src="https://img.shields.io/github/languages/top/miguelsrrobo/JS_Public-">
+  <a>
+    <img alt="Stargazers" src="https://img.shields.io/github/followers/miguelsrrobo?style=social-blue">
+  </a>
+</p>
+
 # JS_Public-
 Repositorio Publico para passar adiante o conhecimento, sobre Javascrip com exercicios e programas feitos durante a rocketseat.
 
