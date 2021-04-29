@@ -1,5 +1,5 @@
 <p align = "center">
-  <img src="https://raw.githubusercontent.com/miguelsrrobo/JS_Public-/master/Captura%20de%20tela%20de%202020-08-06%2015-08-00.png" alt="python_logo_extended" width="50%" />
+  <img src="https://raw.githubusercontent.com/miguelsrrobo/JS_Public-/master/Captura%20de%20tela%20de%202020-08-06%2015-08-00.png" alt="js_logo_extended" width="50%" />
 </p>
 
 <p align="center">	
